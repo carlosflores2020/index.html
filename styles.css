@@ -1,0 +1,17 @@
+body {
+    /*background-color: rgba(255,0,0, 0.4);*/
+    background: linear-gradient(0deg, blue 10%, lightblue   75%, orange);
+    /*color: darkblue;*/
+    }
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    padding: 10px;
+    margin: 20px;
+}
